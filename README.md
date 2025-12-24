@@ -18,7 +18,7 @@ The project includes a multi-page interactive dashboard built with **Streamlit**
 - `data`: Contains the dataset used.
 
 ## 🎥 Project Video
-> **[Place your Video Link Here]** *(Upload your video to YouTube or Google Drive and paste the link here)*
+> **https://drive.google.com/file/d/1h8W9brzmNmVkSQVW4AFmepLu1_zxYQnu/view?usp=drive_link** 
 
 ---
 
